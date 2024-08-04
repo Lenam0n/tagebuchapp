@@ -1,0 +1,16 @@
+
+    {
+        "name":"WochenendZiel",
+        "text":"Bitte wähle eins bis drei Bereiche, in denen sie sich das Wochenende ein Ziel setzen wollen",
+        "MC_Anzahl":3,
+        "MC_text":[
+            "Einüben/ Fördern von Alltagskompetenzen \n(Basisfertigkeiten, Tagesstruktur, Haushalt, persönöliche Hygiene, ...)",
+            "Geregelter Schlaf-/Wachrhythmus (Tagesmüdigkeit,-schlaf)",
+            "Kommunikationsgestaltung (Gespräche führen, zuhören, ausreden lassen, ...)",
+            "Sozialkompetenz fördern/ Sozialkontakte pflegen \n(Freunde/Bekannte/Familie treffen, Absprachefähigkeit, Rückzug, Umgang mit Meinungsverschiedenheiten)",
+            "Freizeitstrukturierung (Unternehmungen, Spiele, angenehme, schöne Erlebnisse)",
+            "Überprüfung Terapiefortschritt \n(Beobachtung bzw. Herbeiführen von Veränderung in Ihrem Handeln, Denken und Fühlen im gewohnten Umfeld)",
+            "Überprüfung zuverlässige Medikamenteneinnahme"
+
+        ]
+    }

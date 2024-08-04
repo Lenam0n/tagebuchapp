@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Ziel",
+      "text": "Mein Tagesziel:"
+    },
+    {
+      "name": "Highlight",
+      "text": "Mein heutiges Stimmungshighlight:"
+    },
+    {
+      "name": "LiefGut",
+      "text": "Heute lief besonders gut:"
+    },
+    {
+      "name": "Stolz",
+      "text": "Darauf bin ich heute Stolz:"
+    },
+    {
+      "name": "Gelassen",
+      "text": "Wobei bin ich heute gelassener geblieben:"
+    },
+    {
+      "name": "ZielProgress",
+      "text": "Was mich heute meinen Zielen nähergebracht hat:"
+    },
+    {
+      "name": "Morgen",
+      "text": "Das wünsche ich mir für morgen:"
+    }
+  ]

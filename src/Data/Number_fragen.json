@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Stimmung",
+    "text": "Stimmung heute:",
+    "min" : 1,
+    "max" : 10
+  },
+  {
+    "name": "Zufriedenheit",
+    "text": "Zufriedenheit heute:",
+    "min" : 0,
+    "max" : 100
+  }
+]

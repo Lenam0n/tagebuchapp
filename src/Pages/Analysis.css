@@ -1,0 +1,49 @@
+.analysis-container {
+    padding: 20px;
+  }
+  
+  .analysis-graph-container {
+    margin-bottom: 40px;
+    max-height: 200px; /* Set the maximum height of the graph container */
+    overflow: hidden; /* Hide overflow to ensure the graph does not exceed the container */
+  }
+  
+  .analysis-graph-container canvas {
+    height: 100% !important; /* Ensure the canvas takes the full height of the container */
+    max-height: 200px; /* Ensure the canvas height does not exceed the container */
+  }
+  
+  .analysis-entries-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .analysis-entries-section {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .analysis-entries-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns in the grid */
+    gap: 10px; /* Space between grid items */
+  }
+  
+  .analysis-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start */
+    min-height: 200px; /* Ensure cards have enough height to display all information */
+  }
+  
+  .analysis-title {
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 20px;
+  }

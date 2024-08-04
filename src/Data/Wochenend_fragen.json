@@ -1,0 +1,33 @@
+{
+    "Ziele_WE":[
+    {
+        "name": "Ziel1",
+        "text": "Ziel 1:"
+    },
+    {
+        "name": "Ziel2",
+        "text": "Ziel 2:"
+    },
+    {
+        "name": "Ziel3",
+        "text": "Ziel 3:"
+    }],
+
+    "Fragen_WE":[
+    {
+        "name": "WEZiele",
+        "text": "Was ist ihnen gut gelungen? Welche Ziele haben sie erreicht?:"
+      },
+    {
+        "name": "schwierig",
+        "text": "Was war noch schwierig? (Verhaltensauffälligkeiten, besondere Vorkommnisse/Beobachtungen):"
+      },
+    {
+        "name": "beobachtungen",
+        "text": "Haben sie noch wichtige andere Beobachtungen gemacht oder sind ihnen weitere Fragen oder Ideen zu Ihrer Benandlung eingefallen?:"
+      },
+    {
+        "name": "medikamentös",
+        "text": "Falls medikamentös behandelt wird, beschreiben sie bitte, ob sie eine Veränderung bemerkt haben, die damit im Zusammenhang stehen könnte:"
+      }
+]}

@@ -1,0 +1,40 @@
+#Fragen{
+
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    padding-top: 40px;
+    margin: 20px;
+    align-items: center;
+
+    margin-top: 3em;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    justify-content: center;
+    width: 700px;
+
+    transition: box-shadow 0.3s, transform 0.3s;
+
+}
+#Fragen:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+.CardHead{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
+.CardHead > div > p{
+    padding: 2px;
+}
+.num-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Zwei Spalten mit gleicher Breite */
+    grid-gap: 10px; /* Abstand zwischen den Elementen */
+}
+      

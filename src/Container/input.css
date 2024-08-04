@@ -1,0 +1,30 @@
+#Input{
+    display: flex;
+    flex-direction: column;
+}
+  
+  .label {
+    display: block;
+    margin-top: 0px;
+    font-weight: bold;
+    color: #333;
+    margin-left: 10px;
+  }
+  
+.input {
+    width: 600px;
+    padding: 12px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    resize: vertical;
+    min-height: 20px; 
+
+    /* die höhe scalled nicht so wie es soll */
+  }
+#Input > textarea{
+    line-height: 18px;
+}
+  
